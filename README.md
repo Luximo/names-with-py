@@ -1,2 +1,2 @@
 # names-with-py
-Echo my name with python
+Echo lux with python
